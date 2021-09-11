@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m is a noob
 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=halibw&hide=stars,issues&theme=tokyonight"/>
+(https://github-readme-stats.vercel.app/api?username=halibw&hide=stars,issues&theme=tokyonight)
 
 <!---
 halibw/halibw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

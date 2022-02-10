@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @halibw
 - 👀 I’m interested in ...
-- 🌱 I’m is a noob
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halibw&hide=stars,issues&theme=tokyonight)
 
